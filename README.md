@@ -1,3 +1,3 @@
 # web
 
-this repo is for we developing study.
+this repo is for web developing study.
